@@ -6,4 +6,5 @@ https://www.acmicpc.net/workbook/view/1152
 - 4월 23일(토) - [BOJ 3190.뱀](https://www.acmicpc.net/problem/3190)
 - 4월 24일(일) - [BOJ 16236.아기상어](https://www.acmicpc.net/problem/16236)
 - 4월 25일(월) - [BOJ 14503.로봇청소기](https://www.acmicpc.net/problem/14503)
-- 4월 26일(화) - [BOJ 17144.미세먼지안녕!](https://www.acmicpc.net/problem/17144)
+- 4월 26일(화) - [BOJ 17144.미세먼지안녕!](https://www.acmicpc.net/problem/17144) , [BOJ 14500.테트리미노](https://www.acmicpc.net/problem/14500)
+          
