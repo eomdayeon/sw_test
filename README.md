@@ -9,6 +9,6 @@ https://www.acmicpc.net/workbook/view/1152
 - 4월 26일(화) - [BOJ 17144.미세먼지안녕!](https://www.acmicpc.net/problem/17144) , [BOJ 14500.테트리미노](https://www.acmicpc.net/problem/14500)
           
 - 4월 27일(수) - [BOJ 14502.연구소](https://www.acmicpc.net/problem/14502)
-- 4월 28일(목) - [BOJ 20055.컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+- 4월 28일(목) - [BOJ 20055.컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) , [BOJ 21610.마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
         
         
