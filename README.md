@@ -13,4 +13,4 @@ https://www.acmicpc.net/workbook/view/1152
 
 - 4월 29일(금) - [BOJ 20057.마법자 상어와 토네이도](https://www.acmicpc.net/problem/20057), [BOJ 19236.청소년상어](https://www.acmicpc.net/problem/19236)
         
-- 4월 30일(토) - [2382. [모의 SW 역량테스트] 미생물 격리](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV597vbqAH0DFAVl&probBoxId=AV732SG66sEDFAW7&type=PROBLEM&problemBoxTitle=%EC%82%BC%EC%84%B1+%EC%8B%A0%EC%9E%85+%EB%AA%A8%EC%9D%98+sw+%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8+%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C&problemBoxCnt=10)
+- 4월 30일(토) - [2382. [모의 SW 역량테스트] 미생물 격리](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)
