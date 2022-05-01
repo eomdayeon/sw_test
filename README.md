@@ -1,5 +1,5 @@
 # sw역량테스트 대비
-목표: 7일간 ~~20문제 풀기
+목표: 7일간 ~~20문제 풀기~~
 
 https://www.acmicpc.net/workbook/view/1152
 
