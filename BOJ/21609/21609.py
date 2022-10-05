@@ -12,8 +12,6 @@ from collections import deque
 #  마지막 실수한 점은 gravity 때문 이었는데, index와 N,M조건 실수안하도록 주의해야할 것이다. 
 
 
-
-
 def bfs(i,j):
     dx =[-1,0,+1,0]
     dy =[0,+1,0,-1]
