@@ -25,3 +25,5 @@ https://www.acmicpc.net/workbook/view/1152
 - 10월 3일(월) - [BOJ 14890. 경사로](https://www.acmicpc.net/problem/14890) , [BOJ 14891. 경사로](https://www.acmicpc.net/problem/14891)
   
 - 10월 4일(화) - [BOJ 21609. 상어중학교](https://www.acmicpc.net/problem/21609) 
+
+- 10월 7일(금) - [BOJ 15686. 치킨배달](https://www.acmicpc.net/problem/15686), [BOJ 17142. 연구소3](https://www.acmicpc.net/problem/17142)
