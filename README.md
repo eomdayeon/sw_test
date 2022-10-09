@@ -22,7 +22,7 @@ https://www.acmicpc.net/workbook/view/1152
 - 10월 2일(일) - [BOJ 14499. 주사위 굴리기](https://www.acmicpc.net/problem/14499) , [BOJ 14499. 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
  ,  [BOJ 14889. 스타트와 링크(다시)](https://www.acmicpc.net/problem/14889)
  
-- 10월 3일(월) - [BOJ 14890. 경사로](https://www.acmicpc.net/problem/14890) , [BOJ 14891. ](https://www.acmicpc.net/problem/14891)
+- 10월 3일(월) - [BOJ 14890. 경사로](https://www.acmicpc.net/problem/14890) , [BOJ 14891. 톱니바퀴](https://www.acmicpc.net/problem/14891)
   
 - 10월 4일(화) - [BOJ 21609. 상어중학교](https://www.acmicpc.net/problem/21609) 
 
