@@ -29,3 +29,5 @@ https://www.acmicpc.net/workbook/view/1152
 - 10월 7일(금) - [BOJ 15686. 치킨배달](https://www.acmicpc.net/problem/15686), [BOJ 17142. 연구소3](https://www.acmicpc.net/problem/17142)
 - 10월 8일(토) - [BOJ 23290. 마법사 상어와 복제](https://www.acmicpc.net/problem/23290)
 - 10월 9일(일) - [BOJ 23288. 주사위 굴리기2](https://www.acmicpc.net/problem/23288), [BOJ 20056. 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
+- 10월 11일(화) - [BOJ 20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)
+- 10월 13일(목) - [BOJ 19236. 청소년상어](https://www.acmicpc.net/problem/19236)
