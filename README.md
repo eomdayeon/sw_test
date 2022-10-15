@@ -31,4 +31,5 @@ https://www.acmicpc.net/workbook/view/1152
 - 10월 9일(일) - [BOJ 23288. 주사위 굴리기2](https://www.acmicpc.net/problem/23288), [BOJ 20056. 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
 - 10월 11일(화) - [BOJ 20058. 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)
 - 10월 13일(목) - [BOJ 19236. 청소년상어](https://www.acmicpc.net/problem/19236)
-- 10월 13일(금) - [BOJ 21611. 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)
+- 10월 14일(금) - [BOJ 21611. 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)
+- 10월 15일(토) - [코드트리 22상반기. 나무박멸](https://www.codetree.ai/frequent-problems/tree-kill-all/description)
